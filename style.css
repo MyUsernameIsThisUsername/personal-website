@@ -1,7 +1,23 @@
-h1 {
-    color: grey;
-    align-items: center;
+
+html {
+  height: 100%;
+  width: 100%;
 }
-img{
-    align-items: center;
+
+h1 {
+  color: #2196F3;
+  text-align: center;
+}
+
+.colored-text {
+  color: #1a0a52;
+  font-size: 18px;
+  margin: 20px;
+}
+
+.sample-image {
+  max-width: 300px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 8px;
 }
